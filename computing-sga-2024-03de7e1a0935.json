@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "computing-sga-2024",
+  "private_key_id": "03de7e1a0935a7dc87c5ecee38c0cd98b070129a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCz1u6e+5l4Rr6H\nwHnzaYns//0OruzEH3s9A7fzy93RRU54dIYJAZasqt4SaljRDDHvgFEN/GWB2wLV\nQ3d++ElGtntk0NUI+0Su15yAfk+BGBTuvSXKGPUt+iYASNNA0wMSC1IwCvU42acA\nKxO0LPu//jy7oVBWRxSOual03Vw4cLyHASLt+8qIatF4RVFQV4nKDUEdYvm5D1Tu\noDwpHk7TjVLzURkxbhPPvB5rc12HhjJtyJ/k5K+Wh0yDmpsjyaSL0UyroyUA+NLv\nW1C5pjnMW7e1OPU7ghgGIJVvD6NSiIt2uRuXky4OVNX48+aBG9rJbm5nVrDnH50x\nNqAubwpXAgMBAAECggEAAsGmGai4kvfenr0MAXeaJhhMXCfBOEZVQLuoW6PBzB3Y\nVI9QqJ2uHgpmafjYUKfzsfyRAXpfYeyl7/ffQoJyuRM98+8hfMhBJr7mRq/o7w0b\n8QbUJ/NW+rPtVi7HkiRJ1UJ4KYVZedwYK6/9VtMjrq8qZiPUU+Y2AfQFjWWBLtpA\n2sN6J8KF0Pk1412253E0iCty4ETCEmAe6Yz53J/PozdPJYa6ZAvZA5JzRTFSbiMu\nJIIJSWANQ9/akhAT1t47i8Qkm6H0STKRjIrtHJ0V5bBupHolUl5mMQR2MP42f88Q\nD6a0muqYADts2BfoLFr80ENo+JMxi9H6pqyWmoQ6VQKBgQD5Mu1EvMyQRCmXU4XK\nL06xs17B1yrq0lfNbohaXN7OTMlog9L/kSrgFTNdQw6mRIEpX5Nq5e2GXrj9tU89\nz6d4JFbvJa7OLr0hPkjt7vtJrpT+KYEeccYp4wcUxmcH0PfB8qDOdbiALtaYSmUV\nQN7No/VbJp4NwBXTWvIe+s715QKBgQC4v2nmy/ZgPZ8s/8Su+T/mIyyjR9dh0mgy\nVfGMhh6PLG71DcnQB+1NG2M0MAP3v/861NH+et2DMzAveutv8mEEQ+C4kCH6hpQx\nWEMGA9T8aBwEHQnTWANmtDMP5dkIEWoVJyIMPbW/HrcuYs1xfJkCoiql7LSHXreb\nCEkFcZj7iwKBgQCTuFWgFo7owg8pjjBT7wEmI577JxJgyrmTpH8dmcnV3vzRgLtW\nFfaliMu+8B5B/3/VR7u6dXv82C+u7YiAqpSqilgiQWNDA7/HcgWHTdAWGHBnzbCl\nnGoMsHClJwsyPfRwOuSKHox1J867zfXnyGGK4zNxig3NNt15QYMfTCvc5QKBgAs2\nCm4oCG50rtkjOENJ+tezYL0T2f0ksJAFaSAW73nOv3j9eja2lG7ub4m2NDdvnkRq\nr8eamyCgFZd8BReJBNwmZles33L9gbaw3Xha+SzMAI87V+JMYAB2hPa9AvubWu2n\nr0hA4muTqJgXBNKTNhHT13S0NYxVchzlVtEOwLLbAoGBAMKbOcfOF2qk9vDuJIcX\nMJcdyeOmceJq/XeKfeNxd49jXO1P2/5c5NLDSBPIxXPyyvxc0chI89j/J7P2ggjK\nLov/s35+Sm3trcLn0AYJhlNPQbrszvELv7i+fL8VZKGgk+RnC+l085o7/ZAG9ZI9\nPXccUWuCUJoFD+yJWoqjAmA/\n-----END PRIVATE KEY-----\n",
+  "client_email": "sa-fendi@computing-sga-2024.iam.gserviceaccount.com",
+  "client_id": "115621703448001963317",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sa-fendi%40computing-sga-2024.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
